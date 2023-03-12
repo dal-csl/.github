@@ -1,1 +1,1 @@
-# Dalhousie CSL
+# Dalhousie Computer Science Leaders
